@@ -1,7 +1,6 @@
 ---
-title: My GitHub Pages Notebook!
+title: Yeet
+author: Owen Yi
 ---
 
-Hello world!
-
-Write some words here!
+!dlrowolleh
