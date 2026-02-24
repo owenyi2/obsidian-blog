@@ -13,12 +13,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Using Interactive Broker's TWSAPI.md",
+                "file": "Tinyhouse Chess Engine Part I - Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Using Interactive Broker's TWSAPI"
+              "title": "Tinyhouse Chess Engine Part I - Introduction"
+            }
+          },
+          {
+            "id": "7ccbc7a152025a6c",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "attachments/Tinyhouse Chess Engine Part I - Introduction-20260224164215523.webp"
+              },
+              "icon": "lucide-image",
+              "title": "Tinyhouse Chess Engine Part I - Introduction-20260224164215523"
             }
           }
         ]
@@ -170,9 +182,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "47ef711f7e8c1d64",
+  "active": "b77831b90dd9f87b",
   "lastOpenFiles": [
     "Using Interactive Broker's TWSAPI.md",
+    "attachments/Tinyhouse Chess Engine Part I - Introduction-20260224164215523.webp",
+    "attachments/Tinyhouse Chess Engine Part I - Introduction-20260224171333132.webp",
+    "index.md",
+    "Tinyhouse Chess Engine Part I - Introduction.md",
     "Drafts/Rings and Ideals/Rings, Ideals and Quotient Rings.md",
     "Drafts/Protocols and Data Classes in Python/Protocols and Data Classes in Python.md",
     "Drafts/Protocols and Data Classes in Python/code/dataclass_example_1.py",
@@ -180,7 +196,6 @@
     "Drafts/Rings and Ideals",
     "Drafts/Protocols and Data Classes in Python/code",
     "Drafts/Protocols and Data Classes in Python",
-    "index.md",
     "Drafts",
     "Books",
     "Mathematics",
