@@ -1,1 +1,7 @@
 .trash/*
+
+*.sw*
+.DS_Store
+
+source/node_modules/
+source/quartz/.quartz-cache/
