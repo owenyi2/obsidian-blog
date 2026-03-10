@@ -1,3 +1,6 @@
+---
+date: 2026-02-24
+---
 # Rules
 
 [Tinyhouse](https://www.chess.com/variants/tinyhouse) is a chess variant played on a 4x4 board using the following pieces

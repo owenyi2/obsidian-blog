@@ -1,3 +1,6 @@
+---
+date: 2026-03-03
+---
 Follows on from [[Tinyhouse Chess Engine Part I - Introduction]]. For this article, I will be using a Python notebook instead of Rust. You can play around with the notebook which can be found [here](https://github.com/owenyi2/tinyhouse/blob/main/main.ipynb). 
 
 # Setup/Convention
@@ -113,8 +116,8 @@ Recall how the squares are numbered.
 # 12 13 14 15
 ```
 Therefore
-- `>> 4` moves 1 square down e.g. 5->1
-- `<< 4` moves 1 square up e.g. 5->9
+- `>> 4` moves 1 square up e.g. 5->1
+- `<< 4` moves 1 square down e.g. 5->9
 - `>> 1` moves 1 square left e.g. 5->4
 - `<< 1`  moves 1 square right e.g. 5->6
 
